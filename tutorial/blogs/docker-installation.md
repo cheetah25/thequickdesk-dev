@@ -101,4 +101,4 @@ sudo systemctl status docker
 
 By following these steps, you should now have Docker and Docker Compose installed on your Linux system. Refer to the official Docker and Docker Compose documentation for further usage and configuration options.
 
-For more Check - [The Quick Desk](https://tqdread.colorwager.in/install-docker-docker-compose-on-linux-a-beginner-friendly-tutorial/) 
+For more Check - [The Quick Desk](https://tqdread.colorwager.in/setup-docker-tutorial/) 
